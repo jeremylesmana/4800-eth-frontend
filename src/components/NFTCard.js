@@ -44,15 +44,15 @@ const NFTCard = ({ username, nftName, price, nftSrc, likeCount, gradient, onClic
         </ColorExtractor></>}
         <div className="wrapper">
           <div className="info-container">
-            <p className="owner"> LEJOURN.DARK.NFT</p>
-            <p className="name">Alien Cry</p>
+            <p className="owner">my.cpp.edu</p>
+            <p className="name">CPP Finest NFT</p>
           </div>
 
           <div className="price-container">
             <p className="price-label">Price</p>
             <p className="price">
               {" "}
-              <FaEthereum /> 4.555
+              <FaEthereum /> 4.20
             </p>
           </div>
         </div>
@@ -73,7 +73,7 @@ const NFTCard = ({ username, nftName, price, nftSrc, likeCount, gradient, onClic
                 }} color='#00f5c966' />
               )}
             </button>
-            <p className="like-count">123</p>
+            <p className="like-count">111</p>
           </div>
         </div>
       </>}>
