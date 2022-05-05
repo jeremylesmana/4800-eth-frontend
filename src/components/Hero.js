@@ -19,7 +19,7 @@ const Hero = () => {
 
       <Header />
 
-      <h1 id="header-text-first">Real Life</h1>
+      <h1 id="header-text-first">CPP's Black Market</h1>
       <h1 id="header-text-second">NFT Marketplace</h1>
       <h5 id="header-subtext">List and sell your physical items as NFT in our marketplace</h5>
 

@@ -13,6 +13,7 @@ import { DAppProvider } from "@usedapp/core";
 import NFTDetail from "./pages/NFTDetail";
 
 ReactDOM.render(
+  
   <BrowserRouter>
       <Routes>
         <Route path="/" element={<DAppProvider config={{}}><Home /></DAppProvider>} />
